@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_AFFICHESTOCK" value="name:ABREVIATION_NOM;datatype:string" />
+	<infoitem key="UD_STOCKS" value="name:QUANTITE_STOCK;datatype:int" />
+</info>
